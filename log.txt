@@ -1,1 +1,1 @@
-
+Na aula de hoje, foi introduzido aos alunos o funcionamento do Git, mais precisamente um software de controle de versão, o qual facilita manter o controle das versões de um código sobre controle, auxiliando o controle do desenvolvimento de um programa por um time.
