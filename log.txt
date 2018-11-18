@@ -1,1 +1,29 @@
-Na aula de hoje, foi introduzido aos alunos o funcionamento do Git, mais precisamente um software de controle de versão, o qual facilita manter o controle das versões de um código sobre controle, auxiliando o controle do desenvolvimento de um programa por um time.
+  Seminário 1:
+  
+    Inicialmente eu tinha uma pequena noção do funcionamento do Git, conhecendo apenas o seu funcionamento, mas não conhecia como usá-lo.
+    Basicamente, no seminário introduzido a nós pela CODE, explicou que o Git é uma forma de facilitar o controle da versão de um programa que está sendo desenvolvido por uma equipe, permitindo a criação de "branching"s, as quais são ramos do código onde cada integrante de um grupo de desenvolvimento de software pode focar em uma atualização especifica para o projeto completo.
+     Basicamente, um git funciona da seguinte forma, essa é dividida em quatro partes: "Working Directory/tree", "Staging Area", "Local Repository" e "Remote". Nos quais as tres primeiras ocorrem no computador de um dos desenvolvedores, onde ele pode desenvolver, testar e arrumar o seu projeto, mais precisamente sua "Branch", e depois ele faz um upload na quarta parte, dispondo na nuvem o seu trabalho para que todos os integrantes do projeto tenham acesso.
+     Os seguintes comandos foram introduzidos para nós:
+       Git.init: Cria um novo repositório ou reinicia um já existente.
+       Git.clone: Clona um repositório já existente.
+       Git.status: Retorna o estado do projeto no momento.
+       Git.add: Adicione arquivos à área de preparação.
+       Git.commit: Mostra as modificações de forma explicita e define o repositório local.
+       Git.push: Coloca as modificações no repositório local.
+       Git.pull: Acessa o repositório remoto.
+       Git.head: Ponteiro que aponta para a versão do seu código, o qual facilita um analise das versões anteriores do código presente na máquina do operador.
+       Git.fetch: Atualiza o banco de dados do desenvolvidor que chamar a função.
+       Git.merge: Uni duas "branches".
+       Git.checkout: Aponta o head para outras branches ou versões anteriores.
+       
+  Seminário 2:
+    
+    Redes de computadores: Basicamente, rede de computadores é um conjunto de maquinas, como servidores, com processadores capazes de trocar informações e/ou compartilhar recursos, onde cada servidor pode controlar o manuseio da informação por cada cliente.
+    Processamento de imagens: De forma resumida, o processamento de imagem é qualquer forma de processamento que receba como entrada uma imagem, podendo retornar como saida uma imagem ou informações sobre elas, como no caso dos robos que se encontram em desenvolvimento que processam imagens que são propostas a ele e reage de acordo com a sua programação diante a situação posta a ele.
+    Banco de Dados: Banco de dados são um conjunto de arquivos relacionados entre si com registros de informações determinadas anteriormente na sua aplicação, como em grandes empresas ou redes sociais. São coleções organizadas de dados que relacionam de forma a criar alguma relação entre as informações presentes, como árvores, nos quais se busca garantir uma maior eficiência na pesquisa dessa informação, já que tempo em grandes empresas pode representar lucro para ela.
+    Arquitetura e Organização de Computadores: Essa disciplina trata dos componentes de contrução de um computador e seus próprios funcionamentos, colocando ao final como o cooperação entra todas essas peças e suas particularidades possibilitam o funcionamento de um computador, explicando assim porque em seu nome de área tem arquitetura.
+     Métodos Numéricos: Resumidamente, métodos númericos são coorelações entre áreas da matemática e da computação, permitindo o uso de algoritmos para obter soluções aproximadas de respostas que não poderiam ser encontradas por causa do grande volume de dados.
+     Inteligência Artificial: É a área de conhecimento que estuda a possibilidade de introdução ao raciocínio inteligente em softwares ou mecanismos, onde esses, atráves da situação com que são colocados, consigam analisa-las e tomar as decisões mais sucetivas ao sucesso.
+     Engenharia de Software: É uma área da computação voltada à especificação, desenvolvimento, e criação de software, realizando no processo a analise do custo, tanto em tempo quanto em dinheiro, para a produção do software, e a analise do risco do projeto caso esse possa falhar no futuro de alguma forma. Tendo como apricação de tecnologias e práticas de gerência de projetos e outras diciplinas, visando organização, produtividade e qualidade. Muitas empresas de software adotando esse método graças a sua qualidade de organização e garantia de retorno, por causa da parte de realização de testes do projeto, o que prova sua qualidade.
+     Informática na Educação: É definida como a aplicação de computadores ou meios tecnologicos na complementação do ensino, como em projetos de gamificação ou jogos sérios para o ensino. Fazendo assim, a informática um meio de apresentação mais familiar e muitas vezes produtivas no ensino de determinada matéria.
+     Otimização Combinatória:
