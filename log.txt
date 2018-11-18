@@ -18,6 +18,7 @@
        
   Seminário 2:
     
+    Questão 1)
     Redes de computadores: Basicamente, rede de computadores é um conjunto de maquinas, como servidores, com processadores capazes de trocar informações e/ou compartilhar recursos, onde cada servidor pode controlar o manuseio da informação por cada cliente.
     Processamento de imagens: De forma resumida, o processamento de imagem é qualquer forma de processamento que receba como entrada uma imagem, podendo retornar como saida uma imagem ou informações sobre elas, como no caso dos robos que se encontram em desenvolvimento que processam imagens que são propostas a ele e reage de acordo com a sua programação diante a situação posta a ele.
     Banco de Dados: Banco de dados são um conjunto de arquivos relacionados entre si com registros de informações determinadas anteriormente na sua aplicação, como em grandes empresas ou redes sociais. São coleções organizadas de dados que relacionam de forma a criar alguma relação entre as informações presentes, como árvores, nos quais se busca garantir uma maior eficiência na pesquisa dessa informação, já que tempo em grandes empresas pode representar lucro para ela.
@@ -26,4 +27,24 @@
      Inteligência Artificial: É a área de conhecimento que estuda a possibilidade de introdução ao raciocínio inteligente em softwares ou mecanismos, onde esses, atráves da situação com que são colocados, consigam analisa-las e tomar as decisões mais sucetivas ao sucesso.
      Engenharia de Software: É uma área da computação voltada à especificação, desenvolvimento, e criação de software, realizando no processo a analise do custo, tanto em tempo quanto em dinheiro, para a produção do software, e a analise do risco do projeto caso esse possa falhar no futuro de alguma forma. Tendo como apricação de tecnologias e práticas de gerência de projetos e outras diciplinas, visando organização, produtividade e qualidade. Muitas empresas de software adotando esse método graças a sua qualidade de organização e garantia de retorno, por causa da parte de realização de testes do projeto, o que prova sua qualidade.
      Informática na Educação: É definida como a aplicação de computadores ou meios tecnologicos na complementação do ensino, como em projetos de gamificação ou jogos sérios para o ensino. Fazendo assim, a informática um meio de apresentação mais familiar e muitas vezes produtivas no ensino de determinada matéria.
-     Otimização Combinatória:
+     Otimização Combinatória: É uma área da computação que estuda problemas de otimização em conjuntos finitos, onde diferentes opções podem ser tomadas para cada conjunto de restrições. Buscando assim, por meio da construção de algoritmos, englobar essas diversas variaveis de decisão de forma a reduzir o custo operacional e/ou economico da efetuação do conjunto definido.
+     Bioinformatica: É uma área da computação que faz a integração dos conceitos e técnicas de analise informatica, no sentido da analise de informação, podendo relacionar com a área de processamento de imagens, nas áreas de estudo de biologia.
+     
+     Questão 2)
+     
+        A área que mais me identifico nesse meio é a de Engenharia de Software, onde os principais temas de pesquisa estão listados a seguir:
+       - Requisitos de Software
+       - Arquitetura de Software
+       - Qualidade de Software
+       - UML e seus profiles (SysML, MARTE)
+       - Software-Intensive Systems
+       - Engenharia Reversa
+       – Reuso de Software, Linhas de Produtos de Software
+       - Compreensão de Programas
+       - Desenvolvimento dirigido por modelos
+       - Linguagens de Programação
+       - Redes de Petri, Workflow, Modelagem e Simulação de Processos Biológicos
+       - Métodos Formais
+       - Engenharia de Confiabilidade de Software
+       Além dos temas listados acima, é recentemente estudo a aprimoração do ensino de engenharia de software, pois esse costuma ser muito cansativo, graças a grande quantidade de conteudo, e pode fazer com que os alunos dessa matéria comecem a tomar um posicionamento evasivo em relação a matéria. Recentemente, existem bolsas na própria UFJF que estão realizando pesquisas em métodos diferentes no ensino de Engenharia de Software, como gamificação e o uso de jogos sérios.
+       O que mais me atrai nessa área é o processo de construçao de software e a forma que o seu desenvolvimento se encaixa. Entretanto, o que me faz identificar nessa área é a capacidade de diversificação que ela possui, permitindo o desenvolvimento de softwares para diversos propósitos, como o caso de jogos, meios de comunicação, etc, e, além disso, o que mais me chama atenção é como essa permite o cooperativismo, com o trabalho em equipe de grupos que é uma das coisas que eu mais aprecio nos mercados, permitindo uma melhor interação com as pessoas e projetando um melhor ambiente para aqueles que convivem no mesmo local de trabalho. Assim, eu me identifico com essa área por causa da capacidade de compartilhamento e desenvolvimento de novos conhecimentos em equipe por meio de um processo único, o processo de desenvolvimento e analise de software.
